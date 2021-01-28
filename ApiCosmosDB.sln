@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDBMobile.Android", "..\CosmosDBMobile\CosmosDBMobile.Android\CosmosDBMobile.Android.csproj", "{1A77FB94-6657-42DC-A946-A185E751E8A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDBMobile", "..\CosmosDBMobile\CosmosDBMobile\CosmosDBMobile.csproj", "{1089965A-6C4C-4633-A119-4EEE78A4B028}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDBMobile", "..\CosmosDBMobile\CosmosDBMobile\CosmosDBMobile.csproj", "{1089965A-6C4C-4633-A119-4EEE78A4B028}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCosmosDB", "ApiCosmosDB.csproj", "{E4B614E6-B862-4709-BE94-7757B16C7B36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCosmosDBAPIConsole", "..\..\..\source\repos\TestCosmosDBAPIConsole\TestCosmosDBAPIConsole.csproj", "{C147FAA3-F599-42C5-BE8B-12B01E95B24E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{E4B614E6-B862-4709-BE94-7757B16C7B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4B614E6-B862-4709-BE94-7757B16C7B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4B614E6-B862-4709-BE94-7757B16C7B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C147FAA3-F599-42C5-BE8B-12B01E95B24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C147FAA3-F599-42C5-BE8B-12B01E95B24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C147FAA3-F599-42C5-BE8B-12B01E95B24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C147FAA3-F599-42C5-BE8B-12B01E95B24E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
