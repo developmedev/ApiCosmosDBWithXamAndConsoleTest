@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5gkaoS8jxtTY3zIuTLk4K0N1RktkyToKPQC/ihvHsx2LvOfY7/1iSb2EJ8nXbJllmwWagPdiXm3Gp6eAMnWycg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user-pc\\source\\repos\\TestCosmosDBAPIConsole\\TestCosmosDBAPIConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user-pc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\user-pc\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

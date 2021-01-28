@@ -1,0 +1,16 @@
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\bin\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.exe
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\bin\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.deps.json
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\bin\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.runtimeconfig.json
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\bin\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.runtimeconfig.dev.json
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\bin\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.dll
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\bin\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.pdb
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\obj\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.csprojAssemblyReference.cache
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\obj\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.AssemblyInfoInputs.cache
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\obj\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.AssemblyInfo.cs
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\obj\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\obj\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.csproj.CopyComplete
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\obj\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.dll
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\obj\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.pdb
+C:\Users\user-pc\source\repos\TestCosmosDBAPIConsole\obj\Debug\netcoreapp3.1\TestCosmosDBAPIConsole.genruntimeconfig.cache
